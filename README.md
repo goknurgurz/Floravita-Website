@@ -44,8 +44,8 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları sıras
 ### 1. Depoyu Klonlayın
 
 ```bash
-git clone https://github.com/kullanici/floravita.git
-cd floravita
+git clone https://github.com/goknurgurz/Floravita-Website.git
+cd Floravita-Website
 ```
 
 ### 2. Backend Sunucusunu Başlatın
